@@ -14,8 +14,8 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to Robin NTW : http://localhost:${port}`);
-  console.log(`🔗 Powered By Robinayush`);
+  console.log(`🔗 Duping With The Only Working Dupe : http://localhost:${port}`);
+  console.log(`🔗 Powered By Ark Methods`);
 });
 
 
